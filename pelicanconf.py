@@ -26,5 +26,7 @@ SOCIAL = (('Personal website', 'http://bohumirzamecnik.cz/'),
 
 DEFAULT_PAGINATION = 10
 
+LOCALE = ('en_US')
+
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True

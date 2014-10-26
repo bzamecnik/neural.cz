@@ -58,3 +58,4 @@ target/
 cache/
 output/
 srv.pid
+pelican.pid

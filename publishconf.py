@@ -20,8 +20,9 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+#DISQUS_SITENAME = ''
+GOOGLE_ANALYTICS = 'UA-44857522-2'
+GITHUB_URL='https://github.com/bzamecnik/neural.cz'
 
 STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}

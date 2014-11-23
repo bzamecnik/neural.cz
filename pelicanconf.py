@@ -16,13 +16,17 @@ DEFAULT_LANG = 'en'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),)
+LINKS = (
+    ('Bohumír Zámečník', 'http://bohumirzamecnik.cz/'),
+    # ('Visual Music Theory', 'http://visualmusictheory.com/'),
+    )
 
 # Social widget
-SOCIAL = (('Personal website', 'http://bohumirzamecnik.cz/'),
-          ('Twitter', 'https://twitter.com/bzamecnik'),)
+SOCIAL = (('Twitter', 'https://twitter.com/bzamecnik'),)
 
 DEFAULT_PAGINATION = 10
 

@@ -20,7 +20,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ''
+DISQUS_SITENAME = 'neuralthoughts'
 GOOGLE_ANALYTICS = 'UA-44857522-2'
 GITHUB_URL='https://github.com/bzamecnik/neural.cz'
 

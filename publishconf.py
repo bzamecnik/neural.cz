@@ -10,7 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://neural.cz'
+SITEURL = 'http://www.neural.cz'
+# SITEURL = 'http://www.neural.cz.s3-website.eu-central-1.amazonaws.com'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'

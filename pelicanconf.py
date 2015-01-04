@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Bohumír Zámečník'
 SITENAME = 'Neural Thoughs'
-SITEURL = 'http://neural.cz'
+SITEURL = 'http://www.neural.cz'
 
 PATH = 'content'
 

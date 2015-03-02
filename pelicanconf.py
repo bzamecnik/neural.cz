@@ -6,8 +6,11 @@ AUTHOR = 'Bohumír Zámečník'
 SITENAME = 'Neural Thoughts'
 SITESUBTITLE = 'the journey in machine learning and visualization'
 SITEURL = ''
+SITE_DESCRIPTION='Machine learning, visualization, data analysis'
 
 PATH = 'content'
+
+THEME='/Users/bzamecnik/python/pelican/pelican-themes/bza_aboutwilson'
 
 TIMEZONE = 'Europe/Prague'
 
@@ -32,8 +35,6 @@ SOCIAL = (('Twitter', 'https://twitter.com/bzamecnik'),)
 DEFAULT_PAGINATION = 10
 
 LOCALE = ('en_US')
-
-THEME='/Users/bzamecnik/python/pelican/pelican-themes/bza_aboutwilson'
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
